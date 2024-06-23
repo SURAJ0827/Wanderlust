@@ -4,13 +4,13 @@
   },
   "name": "majorproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "It is the Full Stack Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Suraj Patil",
   "license": "ISC",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.15.3",
