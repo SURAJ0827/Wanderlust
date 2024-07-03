@@ -173,8 +173,8 @@ body {
 }
 
 .map-res {
-  size: 1rem !important;
-  width: 385px !important;
+  /* size: 1rem !important;
+  width: 385px !important; */
 }
 
 .mapboxgl-canvas {
